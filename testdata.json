@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Aniket",
+        "email": "aniket13@gmail.com",
+        "phone": "4783947321",
+        "address": "123, Baker Street, Australia"
+    },
+    {
+        "id":2,
+        "name": "Parag",
+        "email": "parag13@gmail.com",
+        "phone": "4787747321",
+        "address": "125, Baker Street, India"
+    },
+    {
+        "id":3,
+        "name": "Arjun",
+        "email": "arjun13@gmail.com",
+        "phone": "4783677321",
+        "address": "123, Baker Street, India"
+    }
+]
